@@ -1,1 +1,1 @@
-web: gunicorn Flask-Joinimages.wsgi --log-file -
+web: python app.py
